@@ -1,0 +1,35 @@
+
+font.sans-serif:	Arial 
+font.size:			8
+mathtext.fontset:	custom
+#LaTeX code turns into the preset font
+
+axes.linewidth:		0.8    # the frames in axes
+lines.linewidth:	0.8    # the plot itself
+axes.titlesize:		8
+axes.labelpad:		1
+
+ytick.major.width:	0.8
+ytick.minor.width:	0.8
+ytick.major.size:	2
+ytick.minor.size:	1
+ytick.major.pad:	1
+#ytick.direction:	in
+
+xtick.major.width:	0.8
+xtick.minor.width:	0.8
+xtick.major.size:	2
+xtick.minor.size:	1
+xtick.major.pad:	1
+#xtick.direction:	in
+
+pdf.fonttype: 42
+ps.fonttype: 42
+
+#savefig.bbox:		tight
+figure.autolayout: True # equal tight_layout = True
+# the dimension is set to the plot itself, not including whitespaces
+savefig.dpi:		600
+
+
+# xkcd
