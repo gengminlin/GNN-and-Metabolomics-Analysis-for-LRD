@@ -1,5 +1,5 @@
 gcms_metabolomics/*
-!gcms_metabolomics/metabolomics.ipynb
+!gcms_metabolomics/*.ipynb
 !gcms_metabolomics/*.mplstyle
 !gcms_metabolomics/*.py
 !gcms_metabolomics/gcmeta_requirement.txt
